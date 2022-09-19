@@ -1,6 +1,6 @@
 # NLW eSports - explorer - Rocktseat
 
-[clique aqui para acessar](https://tunim73.github.io/NLW-eSports-explorer)
+[Clique aqui para acessar a página e ver o projeto ](https://tunim73.github.io/NLW-eSports-explorer)
 
 
 ## 😊 Aprendizados
